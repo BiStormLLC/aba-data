@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "aba-data",
+    "description": "Create behaviors, track occurrences, and export as a CSV",
+    "slug": "aba-data",
+    "privacy": "public",
+    "sdkVersion": "20.0.0",
+    "version": "1.0.0",
+    "primaryColor": "#ffffff",
+    "icon": "./assets/images/icon.png",
+    "notification": {
+      "icon": "./assets/images/icon.png",
+      "color": "#000000"
+    },
+    "loading": {
+      "icon": "./assets/images/icon.png",
+      "hideExponentText": true
+    },
+    "packagerOpts": {
+      "assetExts": [ "ttf" ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
